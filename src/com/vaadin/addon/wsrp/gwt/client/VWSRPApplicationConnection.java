@@ -26,8 +26,8 @@ public class VWSRPApplicationConnection extends ApplicationConnection {
     /*-{
     if($wnd.vaadin.vaadinConfigurations && $wnd.vaadin.vaadinConfigurations[id]) {
         var jsobj = $wnd.vaadin.vaadinConfigurations[id];
-        if('wsrpMode' in jsobj && typeof(jsobj.wsrpMode) == "boolean") {
-            return jsobj.wsrpMode;
+        if('WSRPMode' in jsobj && typeof(jsobj.WSRPMode) == "boolean") {
+            return jsobj.WSRPMode;
         }
     }
     

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: WSRPAddon
+Implementation-Version: 0.8.3
+Vaadin-Package-Version: 1
+Class-Path: 
+Vaadin-Widgetsets: com.vaadin.addon.wsrp.gwt.WsrpaddonWidgetset
+
